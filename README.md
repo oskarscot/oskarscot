@@ -1,9 +1,9 @@
 <h2>👋 About me</h2>
 
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 My name is Oskar and I'm a 19 year old Kotlin developer from Scotland
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 My name is Oskar and I'm a 20 year old Kotlin developer from Scotland
 - 🛠️ I’m currently working on **Portfolio Projects**.
 - 🏫 I’m currently studying **Software Engineering** while specialising in **Graphics Programming**.
-- 🌹 4+ years of experience.
+- 🌹 6+ years of experience.
 
 <h2>🧰 Skills</h2>
 <h4>Languages</h4>
