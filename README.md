@@ -1,7 +1,7 @@
 <h2>👋 About me</h2>
 
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 My name is Oskar and I'm a 20 year old Java developer from Scotland
-- 🛠️ I’m currently working on **Portfolio Projects**.
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 My name is Oskar and I'm a 21 year old Java developer from Scotland
+- 🛠️ I’m currently working on **Project X (NDA)**.
 - 🏫 I’m currently studying **Software Engineering** interested in **Graphics Programming**.
 
 <h2>🧰 Skills</h2>
