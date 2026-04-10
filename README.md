@@ -1,8 +1,8 @@
 <h2>👋 About me</h2>
 
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 My name is Oskar and I'm a 21 year old Java developer from Scotland
-- 🛠️ I’m currently working on **HytaleModding.dev**.
-- 🏫 I’m currently studying **Software Engineering** interested in **Graphics Programming**.
+- 🛠️ I’m currently working on **Hytale**.
+- 🏫 I’m currently studying **Software Engineering** interested in **Game Development**.
 
 <h2>🧰 Skills</h2>
 <h4>Languages</h4>
