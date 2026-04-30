@@ -7,6 +7,7 @@
 
 ### 👨‍💻 About me
 
+- 🧰 Software Engineer @ Hytown
 - 🛠️ Currently working on various **[Hytale](https://hytale.com)** projects.
 - 🎓 Studying **MEng Software Engineering**, with a focus on **Cloud Computing**
 - 💙 Absolutely love building on **Cloudflare Workers**
